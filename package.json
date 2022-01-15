@@ -1,0 +1,20 @@
+{
+  "name": "mastering-graphql-backend",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "GraphQL and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rhodin Emmanuel Nagwere",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.6.1",
+    "dotenv": "^12.0.3",
+    "express": "^4.17.2",
+    "graphql": "^16.2.0",
+    "mongoose": "^6.1.6",
+    "nodemon": "^2.0.15"
+  }
+}
